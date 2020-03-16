@@ -1,0 +1,135 @@
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/emu/00006.jpg 1
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/blue jay/00046.jpg 4
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/european goldfinch/00254.jpg 0
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/european goldfinch/00123.jpg 0
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/peacock/00012.jpg 3
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/blue jay/00231.jpg 4
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/emu/00020.jpg 1
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/emu/00087.jpg 1
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/peacock/00298.jpg 3
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/peacock/00249.jpg 3
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/house sparrow/00280.jpg 2
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/house sparrow/00123.jpg 2
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/european goldfinch/00179.jpg 0
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/house sparrow/00246.jpg 2
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/european goldfinch/00215.jpg 0
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/peacock/00109.jpg 3
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/house sparrow/00061.jpg 2
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/house sparrow/00169.jpg 2
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/blue jay/00221.jpg 4
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/european goldfinch/00074.jpg 0
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/blue jay/00100.jpg 4
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/blue jay/00093.jpg 4
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/european goldfinch/00289.jpg 0
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/emu/00208.jpg 1
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/house sparrow/00243.jpg 2
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/european goldfinch/00210.jpg 0
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/emu/00268.jpg 1
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/house sparrow/00086.jpg 2
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/emu/00135.jpg 1
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/house sparrow/00296.jpg 2
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/house sparrow/00261.jpg 2
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/peacock/00191.jpg 3
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/european goldfinch/00070.jpg 0
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/peacock/00293.jpg 3
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/blue jay/00024.jpg 4
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/peacock/00181.jpg 3
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/house sparrow/00182.jpg 2
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/european goldfinch/00242.jpg 0
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/blue jay/00126.jpg 4
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/house sparrow/00101.jpg 2
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/house sparrow/00024.jpg 2
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/emu/00275.jpg 1
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/emu/00236.jpg 1
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/european goldfinch/00112.jpg 0
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/house sparrow/00092.jpg 2
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/house sparrow/00160.jpg 2
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/peacock/00098.jpg 3
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/house sparrow/00149.jpg 2
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/european goldfinch/00132.jpg 0
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/blue jay/00233.jpg 4
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/european goldfinch/00271.jpg 0
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/house sparrow/00142.jpg 2
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/house sparrow/00211.jpg 2
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/european goldfinch/00131.jpg 0
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/european goldfinch/00029.jpg 0
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/blue jay/00107.jpg 4
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/peacock/00133.jpg 3
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/emu/00155.jpg 1
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/european goldfinch/00200.jpg 0
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/emu/00091.jpg 1
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/european goldfinch/00011.jpg 0
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/emu/00120.jpg 1
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/peacock/00285.jpg 3
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/emu/00256.jpg 1
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/european goldfinch/00186.jpg 0
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/emu/00239.jpg 1
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/blue jay/00061.jpg 4
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/emu/00041.jpg 1
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/emu/00195.jpg 1
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/emu/00233.jpg 1
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/european goldfinch/00160.jpg 0
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/european goldfinch/00253.jpg 0
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/house sparrow/00042.jpg 2
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/blue jay/00281.jpg 4
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/peacock/00014.jpg 3
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/european goldfinch/00249.jpg 0
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/blue jay/00033.jpg 4
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/blue jay/00021.jpg 4
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/peacock/00237.jpg 3
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/peacock/00267.jpg 3
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/house sparrow/00048.jpg 2
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/peacock/00130.jpg 3
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/blue jay/00156.jpg 4
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/european goldfinch/00071.jpg 0
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/peacock/00273.jpg 3
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/emu/00182.jpg 1
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/house sparrow/00240.jpg 2
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/european goldfinch/00275.jpg 0
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/european goldfinch/00102.jpg 0
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/emu/00021.jpg 1
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/peacock/00169.jpg 3
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/house sparrow/00074.jpg 2
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/house sparrow/00098.jpg 2
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/emu/00128.jpg 1
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/peacock/00117.jpg 3
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/blue jay/00104.jpg 4
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/peacock/00234.jpg 3
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/house sparrow/00073.jpg 2
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/house sparrow/00014.jpg 2
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/peacock/00219.jpg 3
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/european goldfinch/00009.jpg 0
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/blue jay/00094.jpg 4
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/emu/00175.jpg 1
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/european goldfinch/00081.jpg 0
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/blue jay/00236.jpg 4
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/european goldfinch/00079.jpg 0
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/peacock/00007.jpg 3
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/european goldfinch/00250.jpg 0
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/peacock/00058.jpg 3
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/peacock/00271.jpg 3
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/house sparrow/00134.jpg 2
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/blue jay/00195.jpg 4
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/emu/00092.jpg 1
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/european goldfinch/00269.jpg 0
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/blue jay/00289.jpg 4
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/european goldfinch/00038.jpg 0
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/peacock/00051.jpg 3
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/peacock/00031.jpg 3
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/emu/00080.jpg 1
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/european goldfinch/00048.jpg 0
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/house sparrow/00252.jpg 2
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/house sparrow/00233.jpg 2
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/blue jay/00095.jpg 4
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/peacock/00145.jpg 3
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/blue jay/00060.jpg 4
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/blue jay/00007.jpg 4
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/blue jay/00099.jpg 4
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/emu/00037.jpg 1
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/house sparrow/00190.jpg 2
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/emu/00077.jpg 1
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/blue jay/00297.jpg 4
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/emu/00211.jpg 1
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/blue jay/00247.jpg 4
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/emu/00038.jpg 1
+/Users/moirashooter/Desktop/Surrey_Documents/Semester2/ImageProcessingAndDeepLearning/assignment/prepare_data/birds/data/peacock/00198.jpg 3
