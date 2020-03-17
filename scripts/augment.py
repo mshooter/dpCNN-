@@ -8,7 +8,6 @@ path_to_data = "../birds/data"
 folder = sys.argv[2]
 
 def create_imgList(path, degree): 
-        time.sleep(1)
         for dirname in os.listdir(path): 
             path_to_dir = os.path.join(path, dirname)
             print("folder", dirname)
@@ -22,7 +21,7 @@ def create_imgList(path, degree):
                         if not os.path.exists("../birds/"+folder+"/"+dirname):
                             os.mkdir("../birds/"+folder+"/"+dirname)
                         else:
-                            r_img.save("../birds/"+folder+"/"+dirname+"/"+filename)
+                            r_img.save("../birds/"+folder+"/"+dirname+"/"+sys.argv[3]+filename)
                             print("image: ", i)
 
 if __name__ == "__main__": 

@@ -1,8 +1,5 @@
 from flickrapi import FlickrAPI
-
-# key and secret had to apply from flickr developer
-KEY = '1aeef791ef1b6e1348a9566933cfcee8'
-SECRET = 'b04886804a1c1a07' 
+from secret import * 
 
 # required image sizes
 IMG_SIZES = ['url_o' ,'url_z', 'url_m', 'url_l', 'url_h']
