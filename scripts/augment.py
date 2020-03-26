@@ -4,10 +4,23 @@ import sys
 from PIL import Image
 from tqdm import tqdm
 
+# TODO: change the argument to the real path and not file/dir names 
+
 path_to_data = "../birds/data"
 folder = sys.argv[2]
 
-def create_imgList(path, degree): 
+def create_augmentedimg(path, degree): 
+    """ 
+    This function will augment the image and save it into another folder
+    /Arguments 
+    path: the path where to find the original data 
+    degree: the angle how much the data needs to rotate 
+
+    How to run the script? 
+    python3 augment.py -how many degrees to rotate -which folder -newname  
+    example: 
+    python3 augment.py 30 fdata min
+    """
         for dirname in os.listdir(path): 
             path_to_dir = os.path.join(path, dirname)
             print("folder", dirname)
@@ -27,5 +40,5 @@ def create_imgList(path, degree):
 if __name__ == "__main__": 
     
     print("augmenting the data")
-    create_imgList(path_to_data,int(sys.argv[1]))
+    create_augmentedimg(path_to_data,int(sys.argv[1]))
     print("modifying the data is done")
